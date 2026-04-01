@@ -11,12 +11,6 @@ O programa utiliza a classe `Scanner` para ler a entrada do usuário e aplica o 
 ## 🛠️ Tecnologias
 *   **Java** (JDK 17 ou superior recomendado)
 *   **Apache NetBeans IDE**
-
-## 📋 Como executar
-1. Clone o repositório ou copie o código fonte.
-2. Abra o projeto no **Apache NetBeans**.
-3. Execute a classe `ProjetoParOuImpar.java`.
-4. Digite um número no console quando solicitado.
-
+*   
 ---
 Desenvolvido por **Davi Machado Pio Ferreira** em 25/03/2026.
