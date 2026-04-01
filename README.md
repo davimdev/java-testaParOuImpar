@@ -11,6 +11,6 @@ O programa utiliza a classe `Scanner` para ler a entrada do usuário e aplica o 
 ## 🛠️ Tecnologias
 *   **Java** (JDK 17 ou superior recomendado)
 *   **Apache NetBeans IDE**
-*   
+  
 ---
 Desenvolvido por **Davi Machado Pio Ferreira** em 25/03/2026.
